@@ -382,3 +382,5 @@ a [class^="icon-"],a [class*=" icon-"]{cursor:pointer;}
 .icon-vk{*zoom:expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf189;');}
 .icon-weibo{*zoom:expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf18a;');}
 .icon-renren{*zoom:expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf18b;');}
+[class^="icon-"],[class*=" icon-"]{margin-right: .3em;}
+.icon-stack [class^="icon-"],.icon-stack [class*=" icon-"]{line-height:2em;}
